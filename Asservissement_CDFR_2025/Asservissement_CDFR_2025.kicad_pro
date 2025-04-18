@@ -188,17 +188,9 @@
         0.15,
         0.25,
         0.5,
-        0.55,
         0.6,
-        0.65,
-        0.7,
         0.75,
-        1.0,
-        1.25,
-        1.5,
-        1.75,
-        2.0,
-        3.5
+        1.25
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -232,16 +224,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.3,
-          "drill": 0.15
-        },
-        {
           "diameter": 0.4,
           "drill": 0.2
-        },
-        {
-          "diameter": 0.45,
-          "drill": 0.25
         },
         {
           "diameter": 0.5,
@@ -258,10 +242,6 @@
         {
           "diameter": 1.0,
           "drill": 0.5
-        },
-        {
-          "diameter": 2.0,
-          "drill": 1.2
         }
       ],
       "zones_allow_external_fillets": false,
@@ -732,7 +712,27 @@
   "sheets": [
     [
       "aba37299-4f54-471d-ab35-d760532fd54c",
-      "Racine"
+      "Root"
+    ],
+    [
+      "419351a1-3707-4ec0-9b41-3b5ddd3eab6a",
+      "Alim"
+    ],
+    [
+      "d9efd86d-5774-4a61-9805-4c646c06fa80",
+      "Other"
+    ],
+    [
+      "db513fd8-f185-4b70-8b1d-5b64661d1b06",
+      "bldc_driverA"
+    ],
+    [
+      "8ced7859-0e5f-4f64-9b4a-94f185ed4b95",
+      "bldc_driverB"
+    ],
+    [
+      "40e1b8dd-59a7-4f3d-804e-7e18f2a9f08c",
+      "bldc_driverC"
     ]
   ],
   "text_variables": {}
