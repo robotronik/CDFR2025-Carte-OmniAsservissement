@@ -19877,7 +19877,7 @@
 			(uuid "b4951088-8a9e-459b-8e59-9626c01d8093")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP29")
 					(unit 1)
@@ -20150,7 +20150,7 @@
 			(uuid "e74c7754-ce64-4702-8813-fc2fd09d47d7")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "#PWR033")
 					(unit 1)
@@ -20700,7 +20700,7 @@
 			(uuid "983abceb-4b52-4be2-a0d7-5b0904196442")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP3")
 					(unit 1)
@@ -22103,7 +22103,7 @@
 			(uuid "21e6b86b-86a6-4002-9d72-af7f64a1a5d0")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "#PWR070")
 					(unit 1)
@@ -22171,7 +22171,7 @@
 			(uuid "f03a97ae-e59d-4198-bc34-8285c82ebe2a")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP9")
 					(unit 1)
@@ -25499,7 +25499,7 @@
 			(uuid "466011af-c059-4e81-a1c7-5a7434dfa525")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP11")
 					(unit 1)
@@ -26410,7 +26410,7 @@
 			(uuid "1c446536-45c4-47d0-907a-e7ca2271fe87")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP6")
 					(unit 1)
@@ -26621,7 +26621,7 @@
 			(uuid "069af67c-d286-4b48-92d3-28bbfe070a6d")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "J4")
 					(unit 1)
@@ -26974,7 +26974,7 @@
 			(uuid "63b66852-ec6c-429a-b426-7bedb391c71b")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP14")
 					(unit 1)
@@ -27108,7 +27108,7 @@
 			(uuid "3845567a-9144-4e2f-b4ec-a5b58c8d64cb")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP34")
 					(unit 1)
@@ -27244,7 +27244,7 @@
 			(uuid "46984a59-4382-414a-8f33-31238273e523")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP10")
 					(unit 1)
@@ -27312,7 +27312,7 @@
 			(uuid "8832e003-58b3-4fef-9d18-5c3491196754")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP4")
 					(unit 1)
@@ -27759,7 +27759,7 @@
 			(uuid "9a937b70-b11c-46d7-bbc3-5278db63882a")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP31")
 					(unit 1)
@@ -28371,7 +28371,7 @@
 			(uuid "fa79f8b3-9629-42ac-aaf4-0131bf88f6e4")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP28")
 					(unit 1)
@@ -30343,7 +30343,7 @@
 			(uuid "d6183921-1953-428a-9120-7c2a88d13573")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "#PWR027")
 					(unit 1)
@@ -30813,7 +30813,7 @@
 			(uuid "5fa0870a-798f-4362-919e-53d692b520c2")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP12")
 					(unit 1)
@@ -30883,7 +30883,7 @@
 			(uuid "cb25e9fa-8b58-430b-979a-cb07e99fcf60")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "SW2")
 					(unit 1)
@@ -31227,7 +31227,7 @@
 			(uuid "13627a89-38b8-43d7-bb53-6e7824c31caa")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "R45")
 					(unit 1)
@@ -32071,7 +32071,7 @@
 			(uuid "18ccfb3b-85c9-4c48-96ed-a3f8d687e2b8")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP35")
 					(unit 1)
@@ -32539,7 +32539,7 @@
 			(uuid "6ab691d0-a637-48c2-aab9-949ac3e90a7b")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP13")
 					(unit 1)
@@ -32807,7 +32807,7 @@
 			(uuid "9226c3f7-bc41-4643-abb8-b281e21b7ac7")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP36")
 					(unit 1)
@@ -33448,7 +33448,7 @@
 			(uuid "4efda67c-226c-4f1e-bbda-a20e01db4af5")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP33")
 					(unit 1)
@@ -33516,7 +33516,7 @@
 			(uuid "98eaa21e-6dba-4ec7-818e-0fe5aa8a50db")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP5")
 					(unit 1)
@@ -33584,7 +33584,7 @@
 			(uuid "abfa0e2d-05f5-4923-8870-da0c109b613d")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP7")
 					(unit 1)
@@ -33783,7 +33783,7 @@
 			(uuid "afa14887-5243-46c2-a169-1affb4116b08")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "#PWR026")
 					(unit 1)
@@ -34200,7 +34200,7 @@
 			(uuid "f0cab461-e9b3-4390-8449-9a897df1f674")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP26")
 					(unit 1)
@@ -34268,7 +34268,7 @@
 			(uuid "8a2437d3-73bf-4f01-af82-81e08e7bfe36")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP32")
 					(unit 1)
@@ -34822,7 +34822,7 @@
 			(uuid "4465b581-140a-4f70-8402-c166075f64ca")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP30")
 					(unit 1)
@@ -35294,7 +35294,7 @@
 			(uuid "5ec32a25-0891-4c79-a1e7-33e228faae65")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP8")
 					(unit 1)
@@ -35428,7 +35428,7 @@
 			(uuid "18fa9876-8f12-4b25-bc9c-62ed155e1c47")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP25")
 					(unit 1)
@@ -35562,7 +35562,7 @@
 			(uuid "1a111fd3-0386-491c-8ffa-9c89f3ebf39f")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "#PWR029")
 					(unit 1)
@@ -35631,7 +35631,7 @@
 			(uuid "32726301-9dd7-4130-8a07-44388eb74c2d")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "SW3")
 					(unit 1)
@@ -35968,7 +35968,7 @@
 			(uuid "d7c7043c-a1ad-4af8-9718-f3a71e3af60d")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP2")
 					(unit 1)
@@ -36104,7 +36104,7 @@
 			(uuid "d628b876-59e1-455f-a969-e3de5464f3a4")
 		)
 		(instances
-			(project "Asservissement_CDFR_2023"
+			(project "Asservissement_CDFR_2025"
 				(path "/aba37299-4f54-471d-ab35-d760532fd54c"
 					(reference "TP27")
 					(unit 1)
