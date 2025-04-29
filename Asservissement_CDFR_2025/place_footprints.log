@@ -1,0 +1,41 @@
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'win32'
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.11.5 (main, May 10 2024, 05:24:12) [MSC v.1939 64 bit (AMD64)]'
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.3
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x0000025F431F08B0>
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J6 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C31 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R21 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C28 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J5 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C25 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D4322 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D4301 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U3 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW2 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C29 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R20 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C26 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D42F0 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R22 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D42CB on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C27 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D4204 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D42C2 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C10 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J7 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint JP1 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D42B7 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW1 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D4 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R10 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW3 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J4 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D4331 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D4217 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D428D on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D3 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint C30 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint kibuzzard-637D41F7 on root level
+04-18 14:13:45 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint G*** on root level

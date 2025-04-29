@@ -1,7 +1,9 @@
 (fp_lib_table
+  (version 7)
   (lib (name "A3930KJPTR-T")(type "KiCad")(uri "${KIPRJMOD}/lib/A3930KJPTR-T.pretty")(options "")(descr ""))
   (lib (name "TerminalBlockBend")(type "KiCad")(uri "${KIPRJMOD}/lib/TerminalBlockBend.pretty")(options "")(descr ""))
   (lib (name "B170B")(type "KiCad")(uri "${KIPRJMOD}/lib/B170B.pretty")(options "")(descr ""))
   (lib (name "IHLP2525CZER100M01")(type "KiCad")(uri "${KIPRJMOD}/lib/IHLP2525CZER100M01.pretty")(options "")(descr ""))
   (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/lib/logo.pretty")(options "")(descr ""))
+  (lib (name "FuseHolder")(type "KiCad")(uri "${KIPRJMOD}/lib/FuseHolder.pretty")(options "")(descr ""))
 )
