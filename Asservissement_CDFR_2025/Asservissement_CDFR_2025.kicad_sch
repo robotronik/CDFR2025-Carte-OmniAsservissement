@@ -4490,7 +4490,6 @@
 	)
 	(label "I2C_CLK"
 		(at 165.1 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4501,7 +4500,6 @@
 	)
 	(label "I2C3_CLK"
 		(at 39.37 166.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4512,7 +4510,6 @@
 	)
 	(label "GreenLED"
 		(at 161.29 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4523,7 +4520,6 @@
 	)
 	(label "Brakes_B"
 		(at 153.67 157.48 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4534,7 +4530,6 @@
 	)
 	(label "Action_Fault_A"
 		(at 152.4 147.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4545,7 +4540,6 @@
 	)
 	(label "Info_Speed_A"
 		(at 152.4 91.44 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4556,7 +4550,6 @@
 	)
 	(label "Info_Dir_A"
 		(at 152.4 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4567,7 +4560,6 @@
 	)
 	(label "Action_Fault_B"
 		(at 269.24 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4578,7 +4570,6 @@
 	)
 	(label "Dir_B"
 		(at 200.66 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4589,7 +4580,6 @@
 	)
 	(label "Speed_A"
 		(at 200.66 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4600,7 +4590,6 @@
 	)
 	(label "Info_Err_1_C"
 		(at 154.94 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4611,7 +4600,6 @@
 	)
 	(label "Brakes_A"
 		(at 152.4 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4622,7 +4610,6 @@
 	)
 	(label "Mode_Drive"
 		(at 200.66 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4633,7 +4620,6 @@
 	)
 	(label "Info_Dir_C"
 		(at 154.94 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4644,7 +4630,6 @@
 	)
 	(label "Info_Err_1_B"
 		(at 77.47 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4655,7 +4640,6 @@
 	)
 	(label "Action_Fault_C"
 		(at 269.24 107.95 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4666,7 +4650,6 @@
 	)
 	(label "Info_Err_2_C"
 		(at 269.24 102.87 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4677,7 +4660,6 @@
 	)
 	(label "Info_Speed_A"
 		(at 269.24 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4688,7 +4670,6 @@
 	)
 	(label "Info_Err_1_C"
 		(at 269.24 100.33 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4699,7 +4680,6 @@
 	)
 	(label "SWDIO"
 		(at 152.4 111.76 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4710,7 +4690,6 @@
 	)
 	(label "Mode_Drive"
 		(at 165.1 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4721,7 +4700,6 @@
 	)
 	(label "Current_Info_A"
 		(at 269.24 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4732,7 +4710,6 @@
 	)
 	(label "Reset_Drive"
 		(at 200.66 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4743,7 +4720,6 @@
 	)
 	(label "Info_Dir_B"
 		(at 269.24 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4754,7 +4730,6 @@
 	)
 	(label "Speed_C"
 		(at 200.66 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4765,7 +4740,6 @@
 	)
 	(label "Current_Info_B"
 		(at 269.24 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4776,7 +4750,6 @@
 	)
 	(label "Info_Speed_C"
 		(at 269.24 97.79 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4787,7 +4760,6 @@
 	)
 	(label "Info_Speed_B"
 		(at 269.24 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4798,7 +4770,6 @@
 	)
 	(label "Info_Err_2_A"
 		(at 152.4 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4809,7 +4780,6 @@
 	)
 	(label "Action_Fault_B"
 		(at 153.67 104.14 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4820,7 +4790,6 @@
 	)
 	(label "Info_Speed_C"
 		(at 154.94 78.74 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4831,7 +4800,6 @@
 	)
 	(label "BttTest"
 		(at 44.45 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4842,7 +4810,6 @@
 	)
 	(label "Reset_Drive"
 		(at 200.66 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4853,7 +4820,6 @@
 	)
 	(label "TX"
 		(at 158.75 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4864,7 +4830,6 @@
 	)
 	(label "Action_Fault_A"
 		(at 269.24 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4875,7 +4840,6 @@
 	)
 	(label "RedLED"
 		(at 161.29 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4886,7 +4850,6 @@
 	)
 	(label "Mode_Drive"
 		(at 200.66 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4897,7 +4860,6 @@
 	)
 	(label "I2C3_SDA"
 		(at 69.85 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4908,7 +4870,6 @@
 	)
 	(label "Dir_A"
 		(at 200.66 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4919,7 +4880,6 @@
 	)
 	(label "Brakes_C"
 		(at 200.66 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4930,7 +4890,6 @@
 	)
 	(label "Disable_Drive"
 		(at 166.37 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4941,7 +4900,6 @@
 	)
 	(label "RedLED"
 		(at 219.71 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4952,7 +4910,6 @@
 	)
 	(label "Current_Info_A"
 		(at 152.4 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4963,7 +4920,6 @@
 	)
 	(label "Disable_Drive"
 		(at 200.66 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4974,7 +4930,6 @@
 	)
 	(label "Brakes_A"
 		(at 200.66 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4985,7 +4940,6 @@
 	)
 	(label "I2C_SDA"
 		(at 165.1 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4996,7 +4950,6 @@
 	)
 	(label "Action_Fault_C"
 		(at 154.94 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5007,7 +4960,6 @@
 	)
 	(label "Speed_C"
 		(at 154.94 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5018,7 +4970,6 @@
 	)
 	(label "Info_Dir_A"
 		(at 269.24 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5029,7 +4980,6 @@
 	)
 	(label "Info_Err_2_B"
 		(at 77.47 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5040,7 +4990,6 @@
 	)
 	(label "Current_Info_B"
 		(at 77.47 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5051,7 +5000,6 @@
 	)
 	(label "GreenLED"
 		(at 238.76 140.97 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5062,7 +5010,6 @@
 	)
 	(label "Dir_A"
 		(at 152.4 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5073,7 +5020,6 @@
 	)
 	(label "I2C3_CLK"
 		(at 162.56 99.06 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5084,7 +5030,6 @@
 	)
 	(label "Dir_C"
 		(at 200.66 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5095,7 +5040,6 @@
 	)
 	(label "BttTest"
 		(at 83.82 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5106,7 +5050,6 @@
 	)
 	(label "Current_Info_C"
 		(at 76.2 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5117,7 +5060,6 @@
 	)
 	(label "Speed_B"
 		(at 153.67 152.4 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5128,7 +5070,6 @@
 	)
 	(label "SWCLK"
 		(at 152.4 114.3 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5139,7 +5080,6 @@
 	)
 	(label "Reset_Drive"
 		(at 200.66 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5150,7 +5090,6 @@
 	)
 	(label "Info_Err_1_A"
 		(at 78.74 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5161,7 +5100,6 @@
 	)
 	(label "Brakes_C"
 		(at 76.2 149.86 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5172,7 +5110,6 @@
 	)
 	(label "Reset_Drive"
 		(at 165.1 116.84 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5183,7 +5120,6 @@
 	)
 	(label "Info_Speed_B"
 		(at 77.47 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5194,7 +5130,6 @@
 	)
 	(label "Mode_Drive"
 		(at 200.66 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5205,7 +5140,6 @@
 	)
 	(label "I2C3_SDA"
 		(at 39.37 168.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5216,7 +5150,6 @@
 	)
 	(label "BttPush"
 		(at 58.42 142.24 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5227,7 +5160,6 @@
 	)
 	(label "Info_Dir_C"
 		(at 269.24 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5238,7 +5170,6 @@
 	)
 	(label "Dir_B"
 		(at 153.67 154.94 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5249,7 +5180,6 @@
 	)
 	(label "Info_Err_2_B"
 		(at 269.24 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5260,7 +5190,6 @@
 	)
 	(label "Speed_A"
 		(at 152.4 121.92 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5271,7 +5200,6 @@
 	)
 	(label "Disable_Drive"
 		(at 200.66 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5282,7 +5210,6 @@
 	)
 	(label "BttPush"
 		(at 83.82 157.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5293,7 +5220,6 @@
 	)
 	(label "Info_Err_2_C"
 		(at 78.74 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5304,7 +5230,6 @@
 	)
 	(label "Disable_Drive"
 		(at 200.66 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5315,7 +5240,6 @@
 	)
 	(label "Dir_C"
 		(at 76.2 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5326,7 +5250,6 @@
 	)
 	(label "Info_Err_2_A"
 		(at 269.24 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5337,7 +5260,6 @@
 	)
 	(label "Current_Info_C"
 		(at 269.24 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5348,7 +5270,6 @@
 	)
 	(label "Brakes_B"
 		(at 200.66 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5359,7 +5280,6 @@
 	)
 	(label "Info_Err_1_B"
 		(at 269.24 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5370,7 +5290,6 @@
 	)
 	(label "Info_Err_1_A"
 		(at 269.24 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5381,7 +5300,6 @@
 	)
 	(label "Info_Dir_B"
 		(at 153.67 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5392,7 +5310,6 @@
 	)
 	(label "Speed_B"
 		(at 200.66 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5403,7 +5320,6 @@
 	)
 	(label "RX"
 		(at 158.75 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6101,7 +6017,7 @@
 		(at 48.26 134.62 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7005,7 +6921,7 @@
 		(at 182.88 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7215,7 +7131,7 @@
 		(at 54.61 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7766,7 +7682,7 @@
 		(at 34.29 134.62 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -8589,7 +8505,7 @@
 		(at 81.28 52.07 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ed825628-5ef9-4ff0-81e9-d36f35d95d9a")
