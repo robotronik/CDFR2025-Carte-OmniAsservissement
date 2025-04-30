@@ -3357,6 +3357,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 113.03) (xy 218.44 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ea59129-cf2f-45c9-b110-9b15902cc7ae")
+	)
+	(wire
+		(pts
 			(xy 200.66 102.87) (xy 218.44 102.87)
 		)
 		(stroke
@@ -3757,13 +3767,13 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 52.07) (xy 252.73 52.07)
+			(xy 200.66 57.15) (xy 218.44 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "769f9648-f917-4cfa-94d0-ae5989c816b6")
+		(uuid "777e84e9-db82-4a2f-9ed9-5f4e1635205f")
 	)
 	(wire
 		(pts
@@ -3774,6 +3784,16 @@
 			(type default)
 		)
 		(uuid "784c2e6d-3e12-40f8-b165-8c1a7e73754f")
+	)
+	(wire
+		(pts
+			(xy 200.66 85.09) (xy 218.44 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78a56460-62d0-4389-805c-ac656f96dade")
 	)
 	(wire
 		(pts
@@ -4187,16 +4207,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 107.95) (xy 252.73 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d20dbbdc-2ae1-47f2-8750-5840e89ca5e1")
-	)
-	(wire
-		(pts
 			(xy 83.82 157.48) (xy 99.06 157.48)
 		)
 		(stroke
@@ -4367,16 +4377,6 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 80.01) (xy 252.73 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebe11b06-9323-44fa-b171-7007feaaf035")
-	)
-	(wire
-		(pts
 			(xy 116.84 71.12) (xy 116.84 73.66)
 		)
 		(stroke
@@ -4490,6 +4490,7 @@
 	)
 	(label "I2C_CLK"
 		(at 165.1 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4500,6 +4501,7 @@
 	)
 	(label "I2C3_CLK"
 		(at 39.37 166.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4510,6 +4512,7 @@
 	)
 	(label "GreenLED"
 		(at 161.29 144.78 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4520,6 +4523,7 @@
 	)
 	(label "Brakes_B"
 		(at 153.67 157.48 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4528,8 +4532,9 @@
 		)
 		(uuid "14b54dd8-b7f0-4cf0-9000-17e1104e01f2")
 	)
-	(label "Action_Fault_A"
+	(label "ESF_A"
 		(at 152.4 147.32 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4540,6 +4545,7 @@
 	)
 	(label "Info_Speed_A"
 		(at 152.4 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4550,6 +4556,7 @@
 	)
 	(label "Info_Dir_A"
 		(at 152.4 127 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4558,18 +4565,9 @@
 		)
 		(uuid "1d032f20-0881-43db-86ba-11b548eabb98")
 	)
-	(label "Action_Fault_B"
-		(at 269.24 80.01 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1f778649-96cd-498c-a794-2d192d2b291b")
-	)
 	(label "Dir_B"
 		(at 200.66 80.01 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4580,6 +4578,7 @@
 	)
 	(label "Speed_A"
 		(at 200.66 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4590,6 +4589,7 @@
 	)
 	(label "Info_Err_1_C"
 		(at 154.94 129.54 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4600,6 +4600,7 @@
 	)
 	(label "Brakes_A"
 		(at 152.4 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4610,6 +4611,7 @@
 	)
 	(label "Mode_Drive"
 		(at 200.66 74.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4620,6 +4622,7 @@
 	)
 	(label "Info_Dir_C"
 		(at 154.94 134.62 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4630,6 +4633,7 @@
 	)
 	(label "Info_Err_1_B"
 		(at 77.47 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4638,18 +4642,9 @@
 		)
 		(uuid "3ffcc8dc-7ae6-44b5-8609-fec2f70ce6c9")
 	)
-	(label "Action_Fault_C"
-		(at 269.24 107.95 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4eed11e1-a2d1-4a4f-85c9-da73951d196c")
-	)
 	(label "Info_Err_2_C"
 		(at 269.24 102.87 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4660,6 +4655,7 @@
 	)
 	(label "Info_Speed_A"
 		(at 269.24 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4670,6 +4666,7 @@
 	)
 	(label "Info_Err_1_C"
 		(at 269.24 100.33 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4680,6 +4677,7 @@
 	)
 	(label "SWDIO"
 		(at 152.4 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4690,6 +4688,7 @@
 	)
 	(label "Mode_Drive"
 		(at 165.1 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4700,6 +4699,7 @@
 	)
 	(label "Current_Info_A"
 		(at 269.24 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4710,6 +4710,7 @@
 	)
 	(label "Reset_Drive"
 		(at 200.66 97.79 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4720,6 +4721,7 @@
 	)
 	(label "Info_Dir_B"
 		(at 269.24 77.47 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4730,6 +4732,7 @@
 	)
 	(label "Speed_C"
 		(at 200.66 105.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4740,6 +4743,7 @@
 	)
 	(label "Current_Info_B"
 		(at 269.24 82.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4750,6 +4754,7 @@
 	)
 	(label "Info_Speed_C"
 		(at 269.24 97.79 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4760,6 +4765,7 @@
 	)
 	(label "Info_Speed_B"
 		(at 269.24 69.85 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4770,6 +4776,7 @@
 	)
 	(label "Info_Err_2_A"
 		(at 152.4 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4778,8 +4785,9 @@
 		)
 		(uuid "785f24a3-ab53-48fd-8627-a9007dceb059")
 	)
-	(label "Action_Fault_B"
+	(label "ESF_B"
 		(at 153.67 104.14 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4790,6 +4798,7 @@
 	)
 	(label "Info_Speed_C"
 		(at 154.94 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4800,6 +4809,7 @@
 	)
 	(label "BttTest"
 		(at 44.45 142.24 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4810,6 +4820,7 @@
 	)
 	(label "Reset_Drive"
 		(at 200.66 69.85 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4820,6 +4831,7 @@
 	)
 	(label "TX"
 		(at 158.75 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4828,18 +4840,9 @@
 		)
 		(uuid "7f0900aa-26c2-4731-bd68-19069cb6ddf4")
 	)
-	(label "Action_Fault_A"
-		(at 269.24 52.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7f196804-6cb6-4484-a900-b88f2c56da8e")
-	)
 	(label "RedLED"
 		(at 161.29 142.24 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4850,6 +4853,7 @@
 	)
 	(label "Mode_Drive"
 		(at 200.66 102.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4860,6 +4864,7 @@
 	)
 	(label "I2C3_SDA"
 		(at 69.85 142.24 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4870,6 +4875,7 @@
 	)
 	(label "Dir_A"
 		(at 200.66 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4880,6 +4886,7 @@
 	)
 	(label "Brakes_C"
 		(at 200.66 110.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4890,6 +4897,7 @@
 	)
 	(label "Disable_Drive"
 		(at 166.37 149.86 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4900,6 +4908,7 @@
 	)
 	(label "RedLED"
 		(at 219.71 140.97 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4910,6 +4919,7 @@
 	)
 	(label "Current_Info_A"
 		(at 152.4 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4920,6 +4930,7 @@
 	)
 	(label "Disable_Drive"
 		(at 200.66 100.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4930,6 +4941,7 @@
 	)
 	(label "Brakes_A"
 		(at 200.66 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4940,6 +4952,7 @@
 	)
 	(label "I2C_SDA"
 		(at 165.1 139.7 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4948,8 +4961,9 @@
 		)
 		(uuid "8e190e5e-4dce-4e27-b202-ab35af7265d0")
 	)
-	(label "Action_Fault_C"
+	(label "ESF_C"
 		(at 154.94 132.08 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4960,6 +4974,7 @@
 	)
 	(label "Speed_C"
 		(at 154.94 124.46 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4970,6 +4985,7 @@
 	)
 	(label "Info_Dir_A"
 		(at 269.24 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4980,6 +4996,7 @@
 	)
 	(label "Info_Err_2_B"
 		(at 77.47 137.16 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4990,6 +5007,7 @@
 	)
 	(label "Current_Info_B"
 		(at 77.47 127 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4998,8 +5016,20 @@
 		)
 		(uuid "9936ab20-526c-4986-95ec-593f902e39dd")
 	)
+	(label "ESF_A"
+		(at 200.66 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9963a03b-a45a-4873-a3b7-28a91b8e5537")
+	)
 	(label "GreenLED"
 		(at 238.76 140.97 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5010,6 +5040,7 @@
 	)
 	(label "Dir_A"
 		(at 152.4 88.9 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5020,6 +5051,7 @@
 	)
 	(label "I2C3_CLK"
 		(at 162.56 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5030,6 +5062,7 @@
 	)
 	(label "Dir_C"
 		(at 200.66 107.95 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5040,6 +5073,7 @@
 	)
 	(label "BttTest"
 		(at 83.82 154.94 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5048,8 +5082,20 @@
 		)
 		(uuid "a472b84f-2258-404e-ade1-8f4db4828a2f")
 	)
+	(label "ESF_C"
+		(at 200.66 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4a9870b-4825-4ccd-aa8e-36f28d90e3af")
+	)
 	(label "Current_Info_C"
 		(at 76.2 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5060,6 +5106,7 @@
 	)
 	(label "Speed_B"
 		(at 153.67 152.4 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5070,6 +5117,7 @@
 	)
 	(label "SWCLK"
 		(at 152.4 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5080,6 +5128,7 @@
 	)
 	(label "Reset_Drive"
 		(at 200.66 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5090,6 +5139,7 @@
 	)
 	(label "Info_Err_1_A"
 		(at 78.74 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5100,6 +5150,7 @@
 	)
 	(label "Brakes_C"
 		(at 76.2 149.86 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5110,6 +5161,7 @@
 	)
 	(label "Reset_Drive"
 		(at 165.1 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5120,6 +5172,7 @@
 	)
 	(label "Info_Speed_B"
 		(at 77.47 134.62 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5130,6 +5183,7 @@
 	)
 	(label "Mode_Drive"
 		(at 200.66 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5140,6 +5194,7 @@
 	)
 	(label "I2C3_SDA"
 		(at 39.37 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5150,6 +5205,7 @@
 	)
 	(label "BttPush"
 		(at 58.42 142.24 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5160,6 +5216,7 @@
 	)
 	(label "Info_Dir_C"
 		(at 269.24 105.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5170,6 +5227,7 @@
 	)
 	(label "Dir_B"
 		(at 153.67 154.94 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5180,6 +5238,7 @@
 	)
 	(label "Info_Err_2_B"
 		(at 269.24 74.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5190,6 +5249,7 @@
 	)
 	(label "Speed_A"
 		(at 152.4 121.92 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5200,6 +5260,7 @@
 	)
 	(label "Disable_Drive"
 		(at 200.66 72.39 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5210,6 +5271,7 @@
 	)
 	(label "BttPush"
 		(at 83.82 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5220,6 +5282,7 @@
 	)
 	(label "Info_Err_2_C"
 		(at 78.74 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5230,6 +5293,7 @@
 	)
 	(label "Disable_Drive"
 		(at 200.66 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5240,6 +5304,7 @@
 	)
 	(label "Dir_C"
 		(at 76.2 147.32 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5250,6 +5315,7 @@
 	)
 	(label "Info_Err_2_A"
 		(at 269.24 46.99 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5260,6 +5326,7 @@
 	)
 	(label "Current_Info_C"
 		(at 269.24 110.49 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5270,6 +5337,7 @@
 	)
 	(label "Brakes_B"
 		(at 200.66 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5280,6 +5348,7 @@
 	)
 	(label "Info_Err_1_B"
 		(at 269.24 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5290,6 +5359,7 @@
 	)
 	(label "Info_Err_1_A"
 		(at 269.24 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5298,8 +5368,20 @@
 		)
 		(uuid "e83b280b-2d03-4ac6-83a4-8554ab83028f")
 	)
+	(label "ESF_B"
+		(at 200.66 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ef632ba1-39d0-489e-a7f6-8eeb3a9e0934")
+	)
 	(label "Info_Dir_B"
 		(at 153.67 101.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5310,6 +5392,7 @@
 	)
 	(label "Speed_B"
 		(at 200.66 77.47 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5320,6 +5403,7 @@
 	)
 	(label "RX"
 		(at 158.75 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8845,7 +8929,7 @@
 	)
 	(sheet
 		(at 218.44 95.25)
-		(size 34.29 19.05)
+		(size 34.29 20.32)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -8865,7 +8949,7 @@
 			)
 		)
 		(property "Sheetfile" "bldc_driver.kicad_sch"
-			(at 218.44 114.8846 0)
+			(at 218.44 116.1546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8953,16 +9037,6 @@
 			)
 			(uuid "8a0a5074-40f2-46c9-94ce-ed07073bb5ad")
 		)
-		(pin "Action_Fault" output
-			(at 252.73 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "0631299c-f940-4a1c-83a3-cd0f0a99752f")
-		)
 		(pin "Speed_Control" input
 			(at 218.44 105.41 180)
 			(effects
@@ -8992,6 +9066,16 @@
 				(justify right)
 			)
 			(uuid "271f826e-5ac3-4b93-a9d2-f093e88d51c8")
+		)
+		(pin "ESF" input
+			(at 218.44 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7e1b2075-8a01-4004-ba4e-8298cc977448")
 		)
 		(instances
 			(project "Asservissement_CDFR_2025"
@@ -9041,7 +9125,7 @@
 	)
 	(sheet
 		(at 218.44 67.31)
-		(size 34.29 19.05)
+		(size 34.29 20.32)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -9061,7 +9145,7 @@
 			)
 		)
 		(property "Sheetfile" "bldc_driver.kicad_sch"
-			(at 218.44 86.9446 0)
+			(at 218.44 88.2146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9149,16 +9233,6 @@
 			)
 			(uuid "8806a996-bce4-4336-b7cb-f257eb938e80")
 		)
-		(pin "Action_Fault" output
-			(at 252.73 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "b0f63565-2ce3-45c9-bf86-5695686ea5f6")
-		)
 		(pin "Speed_Control" input
 			(at 218.44 77.47 180)
 			(effects
@@ -9188,6 +9262,16 @@
 				(justify right)
 			)
 			(uuid "de5c9898-db55-43bd-b1ab-fa2721200813")
+		)
+		(pin "ESF" input
+			(at 218.44 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7a73ec0e-ca87-4b56-9704-0293958a2369")
 		)
 		(instances
 			(project "Asservissement_CDFR_2025"
@@ -9237,7 +9321,7 @@
 	)
 	(sheet
 		(at 218.44 39.37)
-		(size 34.29 19.05)
+		(size 34.29 20.32)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -9257,7 +9341,7 @@
 			)
 		)
 		(property "Sheetfile" "bldc_driver.kicad_sch"
-			(at 218.44 59.0046 0)
+			(at 218.44 60.2746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9345,16 +9429,6 @@
 			)
 			(uuid "56c7c291-5f01-4fa1-9cc1-439d0b693fca")
 		)
-		(pin "Action_Fault" output
-			(at 252.73 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "b648f3f7-f285-4afb-9bac-9a5965e43ebc")
-		)
 		(pin "Speed_Control" input
 			(at 218.44 49.53 180)
 			(effects
@@ -9384,6 +9458,16 @@
 				(justify right)
 			)
 			(uuid "9c6f9f91-03f3-4e83-8079-fafdf7743a18")
+		)
+		(pin "ESF" input
+			(at 218.44 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "759f5fc9-416b-4358-a308-0ad02dfe1876")
 		)
 		(instances
 			(project "Asservissement_CDFR_2025"
