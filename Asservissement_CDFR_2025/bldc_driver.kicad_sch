@@ -6461,19 +6461,6 @@
 		)
 		(uuid "b88120d4-d586-4188-bd7e-4347ed7598e2")
 	)
-	(text "220nF"
-		(exclude_from_sim no)
-		(at 136.398 108.712 0)
-		(effects
-			(font
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 255 12 6 1)
-			)
-		)
-		(uuid "c0db380d-44df-44bb-a300-234a26256e13")
-	)
 	(text "37k"
 		(exclude_from_sim no)
 		(at 105.156 159.766 0)
@@ -6499,19 +6486,6 @@
 			)
 		)
 		(uuid "c6e3e935-a95c-44ca-9114-e91d2e7fae2f")
-	)
-	(text "10"
-		(exclude_from_sim no)
-		(at 154.94 118.11 0)
-		(effects
-			(font
-				(size 3 3)
-				(thickness 0.6)
-				(bold yes)
-				(color 255 12 6 1)
-			)
-		)
-		(uuid "d464fa35-1191-4425-8c7b-773827d0ea7f")
 	)
 	(text "Cesf 20 times larger \nthan the bootstrap capacitor"
 		(exclude_from_sim no)
@@ -6913,7 +6887,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 273.05 149.8599 90)
+			(at 273.05 148.5899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8524,10 +8498,10 @@
 		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "662a9f08-6e46-453d-8ea3-45688f454907")
 		(property "Reference" "TP37"
 			(at 273.05 144.7799 90)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8537,7 +8511,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 273.05 147.3199 90)
+			(at 273.05 146.0499 90)
 			(effects
 				(font
 					(size 1.27 1.27)

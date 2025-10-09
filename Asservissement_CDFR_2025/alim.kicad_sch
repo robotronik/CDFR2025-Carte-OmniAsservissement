@@ -3274,6 +3274,17 @@
 		)
 		(uuid "faed3ca5-795b-4795-8cd5-bf30864a69a4")
 	)
+	(text "Anti Ludo Protection, move F1 to GND\nand add D1 that can handle 10+Amps"
+		(exclude_from_sim no)
+		(at 59.182 90.678 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 12 16 1)
+			)
+		)
+		(uuid "0f948b2d-6bdd-4edd-9054-6097a64cb112")
+	)
 	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 259.08 91.44 0)
